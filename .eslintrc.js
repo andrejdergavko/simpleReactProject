@@ -22,5 +22,7 @@ module.exports = {
     'prettier/prettier': 'error',
     'arrow-body-style': 'off',
     'prefer-arrow-callback': 'off',
+    'react/react-in-jsx-scope': 'off',
+    '@typescript-eslint/strict-boolean-expressions': 'warn',
   },
 };
